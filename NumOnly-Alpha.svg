@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   id="scan-base"
+   height="130.84444"
+   width="216.17778"
+   version="1.0"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   sodipodi:docname="NumOnly-Alpha.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs49" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="963"
+     id="namedview47"
+     showgrid="false"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-nodes="true"
+     inkscape:zoom="5.980361"
+     inkscape:cx="97.234933"
+     inkscape:cy="105.34481"
+     inkscape:window-x="0"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="scan-base"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:showpageshadow="2"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Grid-Alpha.svg</dc:title>
+        <cc:license
+           rdf:resource="https://www.gnu.org/licenses/gpl.txt" />
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Onboard Devel Team at https://launchpad.net/~onboard</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>GPL-3+ license</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>Onboard Devel Team</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:source>https://launchpad.net/onboard</dc:source>
+        <dc:relation>This file is part of Onboard</dc:relation>
+        <dc:contributor>
+          <cc:Agent>
+            <dc:title>Copyright © 2016, Francesco Fumanti &lt;francesco.fumanti@gmx.net&gt;
+Copyright © 2011-2014, marmuta &lt;marmvta@gmail.com&gt;</dc:title>
+          </cc:Agent>
+        </dc:contributor>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <rect
+     x="63.802235"
+     y="30.802231"
+     width="19.395535"
+     height="88.395538"
+     style="fill:#b7ad8b;stroke:#000000;stroke-width:1.60446;stroke-miterlimit:4;stroke-dasharray:none"
+     id="RTRN" />
+  <rect
+     x="0.65993917"
+     y="0.66004562"
+     width="19.68013"
+     height="28.679909"
+     style="fill:#dad0ac;stroke:#000000;stroke-width:1.31987;stroke-miterlimit:4;stroke-dasharray:none"
+     id="1" />
+  <rect
+     x="21.659931"
+     y="0.65992671"
+     width="19.680138"
+     height="28.679396"
+     style="fill:#dad0ac;stroke:#000000;stroke-width:1.31986;stroke-miterlimit:4;stroke-dasharray:none"
+     id="2" />
+  <rect
+     x="42.659931"
+     y="0.65993267"
+     width="19.680141"
+     height="28.679909"
+     style="fill:#dad0ac;stroke:#000000;stroke-width:1.31986;stroke-miterlimit:4;stroke-dasharray:none"
+     id="3" />
+  <rect
+     x="0.65993506"
+     y="30.659933"
+     width="19.68014"
+     height="28.680136"
+     style="fill:#dad0ac;stroke:#000000;stroke-width:1.31986;stroke-miterlimit:4;stroke-dasharray:none"
+     id="4" />
+  <rect
+     x="21.660776"
+     y="30.660776"
+     width="19.67845"
+     height="28.755798"
+     style="fill:#dad0ac;stroke:#000000;stroke-width:1.32155;stroke-miterlimit:4;stroke-dasharray:none"
+     id="5" />
+  <rect
+     x="42.660782"
+     y="30.66078"
+     width="19.678436"
+     height="28.75631"
+     style="fill:#dad0ac;stroke:#000000;stroke-width:1.32156;stroke-miterlimit:4;stroke-dasharray:none"
+     id="6" />
+  <rect
+     x="0.66092646"
+     y="60.660782"
+     width="19.678295"
+     height="28.756378"
+     style="fill:#dad0ac;stroke:#000000;stroke-width:1.32156;stroke-miterlimit:4;stroke-dasharray:none"
+     id="7" />
+  <rect
+     x="21.660778"
+     y="60.660774"
+     width="19.678448"
+     height="28.755857"
+     style="fill:#dad0ac;stroke:#000000;stroke-width:1.32155;stroke-miterlimit:4;stroke-dasharray:none"
+     id="8" />
+  <rect
+     x="42.660782"
+     y="60.660782"
+     width="19.678295"
+     height="28.756369"
+     style="fill:#dad0ac;stroke:#000000;stroke-width:1.32156;stroke-miterlimit:4;stroke-dasharray:none"
+     id="9" />
+  <rect
+     x="0.93339002"
+     y="90.933388"
+     width="40.133224"
+     height="28.133228"
+     style="fill:#dad0ac;stroke:#000000;stroke-width:1.86678;stroke-miterlimit:4;stroke-dasharray:none"
+     id="0" />
+  <rect
+     x="63.659939"
+     y="0.65994"
+     width="19.680119"
+     height="28.680117"
+     style="fill:#b7ad8b;stroke:#000000;stroke-width:1.31988;stroke-miterlimit:4;stroke-dasharray:none"
+     id="BKSP" />
+  <rect
+     x="42.659935"
+     y="90.659943"
+     width="19.680124"
+     height="28.68012"
+     style="fill:#a97679;stroke:#000000;stroke-width:1.31988;stroke-miterlimit:4;stroke-dasharray:none"
+     id="full-stop" />
+</svg>
