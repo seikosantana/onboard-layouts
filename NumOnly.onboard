@@ -12,9 +12,9 @@ GNU General Public License for more details.
 You should have received a copy of the GNU General Public License
 along with this program. If not, see <http://www.gnu.org/licenses/>.
 -->
-<keyboard id="NumOnly" format="3.2" section="system" summary="Grid of keys, suitable for keyboard scanning">
+<keyboard id="NumOnly" format="3.2" section="system" summary="Numeric pad only, requires no numlock">
   <include file="key_defs.xml" />
-  <box border="0.5" spacing="1.5" orientation="vertical">
+  <box border="0" spacing="1" orientation="vertical">
     <!--- word suggestions -->
     <panel filename="NumOnly-Alpha.svg">
       <include file="word_suggestions.xml" />
@@ -31,17 +31,11 @@ along with this program. If not, see <http://www.gnu.org/licenses/>.
         <key group="alphanumeric" id="7" keycode="16" />
         <key group="alphanumeric" id="8" keycode="17" />
         <key group="alphanumeric" id="9" keycode="18" />
-        <key group="alphanumeric" id="comma" keycode="59  " />
-        <panel id="variable_keys" layout="be,fr,cm(azerty)">
-          <key group="alphanumeric" id="full-stop" keycode="58" />
-        </panel>
         <panel id="variable_keys">
           <key group="alphanumeric" id="full-stop" keycode="60" />
         </panel>
-        <key group="bottomrow" id="LFSH.grid" />
-        <key group="bottomrow" id="SPCE.grid" label="Space" />
         <key group="bottomrow" id="BKSP.grid" />
-        <key group="bottomrow" id="RTRN.grid" label="Return" label_x_align="0.5" popup_id="RTRN_popup" />
+        <key group="bottomrow" id="RTRN.grid" label_x_align="0.5" />
       </panel>
     </box>
   </box>
