@@ -26,7 +26,7 @@ Or one liner:
 sudo apt install at-spi2-core gir1.2-appindicator3-0.1 gir1.2-atspi-2.0 onboard-data mousetweaks
 ```
 
-
+**Some changes take effect only after restart**.
 
 ## Getting Layouts from this Repository
 Simply clone this repository to user OnBoard folder.
